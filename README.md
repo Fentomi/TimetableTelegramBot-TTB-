@@ -8,3 +8,6 @@ My first synchronized telegram bot in python
 
 # Project background:
 *In the fall of 2023, I entered the institute as a programmer, and the institute had its own website where I needed to look at class schedules. From time to time the site went to bed and the site became inaccessible to get information about the schedule. In my head I had an idea of such a bot, which would not only parse information from the site, but also from time to time write the institute site into its file, so that I always had access to the information.*
+
+# Will this bot be useful for YOU:
+_This bot was developed for my personal tasks, so the answer is short: **No, it will not be useful.**_
